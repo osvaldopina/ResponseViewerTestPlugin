@@ -1,0 +1,14 @@
+{
+  "name": "ResponseViewerTestPlugin",
+  "version": "1.0.0",
+  "main": "plugin.js",
+  
+  "insomnia": {                    
+    "name": "Response Viewer Test Plugin",     
+    "description": "Response Viewer Test Plugin"  
+  },
+  
+   "dependencies": {
+    "react": "^16.0.0"
+  }
+}
