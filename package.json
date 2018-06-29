@@ -1,6 +1,6 @@
 {
-  "name": "ResponseViewerTestPlugin",
-  "version": "1.0.0",
+  "name": "response-viewer-test-plugin",
+  "version": "0.0.1",
   "main": "plugin.js",
   
   "insomnia": {                    
